@@ -61,7 +61,7 @@
 4.  Стрелка от **Collector** к **Jaeger**.
 
 [Ссылка на схему C4 с новыми компонентами (v1)](jewerly_c4_model_tracing_v1.drawio)
-
+![jewerly_c4_model_tracing_v1.drawio.png](jewerly_c4_model_tracing_v1.drawio.png)
 ---
 
 ### **Этап 4: Компромиссы**
@@ -100,3 +100,4 @@
 3.  Стрелки в **Slack** и **Jira**.
 
 [Ссылка на схему C4 с мониторингом (v2)](jewerly_c4_model_tracing_v2.drawio)
+![jewerly_c4_model_tracing_v2.drawio.png](jewerly_c4_model_tracing_v2.drawio.png)
