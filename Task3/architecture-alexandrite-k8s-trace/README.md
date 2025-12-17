@@ -25,6 +25,8 @@ kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/
 
 ### 3. Развертывание Jaeger
 ```bash
+# Перейдите в корневую директорию проекта
+cd architecture-alexandrite-k8s-trace
 kubectl create namespace observability
 kubectl create -f https://github.com/jaegertracing/jaeger-operator/releases/download/v1.51.0/jaeger-operator.yaml -n observability
 # Подождите пока оператор запустится
